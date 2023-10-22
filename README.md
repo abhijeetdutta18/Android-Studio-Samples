@@ -1,0 +1,1 @@
+This is a simple application to move back and forth froom one screen to another screen in an android application, you can use it to use as a starter application to start moving to new upcoming ideas in your little brain ! # Android-Studio-Samples
